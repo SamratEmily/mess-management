@@ -7,7 +7,6 @@
   <title>Mess Managing Easily</title>
   <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans'><link rel="stylesheet" href="LoginCSS/login.css">
   <script type="text/javascript" src="LoginJS/login.js"></script>
-
 </head>
 <body>
 <p class="tip"></p>

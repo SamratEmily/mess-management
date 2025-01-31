@@ -1,7 +1,7 @@
 <?php 
 session_start();
 
-$db = mysqli_connect('localhost', 'root', '', 'mess-management');
+$db = mysqli_connect('localhost', 'root', '', 'mess');
 
 if (isset($_POST['register_user'])) {							//Register User
 

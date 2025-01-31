@@ -1,3 +1,6 @@
-In this project, we have two types of mess management. One is for Meal management, and another is for Meal Management. 
-Here, we provide some Excel sheet links that are created manually in Google Excel sheet.
-From there, a mess member can see his/her own transactions.
+# Mess Management System
+This project offers two types of mess management:
+
+Meal Management – Tracks daily meal consumption and expenses.
+Expense Management – Manages individual and shared expenses within the mess.
+We provide Google Sheets links that are manually created to help mess members track their transactions. Each member can view their personal financial records conveniently through these sheets.
