@@ -19,16 +19,15 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarText">
           <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
+            <li class="nav-item">
               <a class="nav-link" href="member.php">Members</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="university.php">Rent Calculations</a>
+              <a class="nav-link" href="rent.php">Rent Calculations</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="student.php">Meal Calculations</a>
+              <a class="nav-link" href="meal.php">Meal Calculations</a>
             </li>
-           
            
           </ul>
         </div>
